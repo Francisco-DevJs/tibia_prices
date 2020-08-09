@@ -1,2 +1,8 @@
-# tibia_prices
-An innovative way to see prices in the Tibia market.
+#  TIBIA PREÇOS
+Uma forma inovadora de ver os preços no market do Tibia.
+
+
+#### Créditos
+Criativamente criado por:
+- Francisco S. S.
+- Roger O. T.
